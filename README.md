@@ -1,1 +1,0 @@
-# jQuery-Spellbook--Magic-Spells
